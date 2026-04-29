@@ -5,6 +5,7 @@
 
 Applying structured AML case analysis and risk-focused thinking aligned with U.S. regulatory expectations.
 Focused on developing practical AML skills aligned with U.S. regulatory expectations (BSA, FinCEN guidance).
+
 This portfolio documents my self-directed learning and practical experience in Anti-Money Laundering (AML) and Bank Secrecy Act (BSA) compliance.
 
 > 💼 Transitioning into AML/BSA  

@@ -1,6 +1,7 @@
 # AML Practice Portfolio
 
 **Minxi Zhang (Evelyn)**  
+San Antonio, TX | Open to relocation: Dallas, TX & Charlotte, NC
 ---
 
 Applying structured AML case analysis and risk-focused thinking aligned with U.S. regulatory expectations.
@@ -20,6 +21,7 @@ Focused on developing practical AML skills aligned with U.S. regulatory expectat
 
 
 ## 🚀 Explore My Work
+
 
 - 👉 **[Why I Pursue AML](01-why-aml.md)**  
 - 👉 **[Learning Log](02-learning-log.md)**  
@@ -44,19 +46,14 @@ My goal is to leverage my experience in transaction review, compliance, and data
 ---
 
 
-- AML Case Practice → (04-case-practice.md)  
-- SAR Writing Practice → (05-sar-practice.md)  
-- AML News Analysis → (03-news-analysis.md)  
-
----
 
 ## 💡 Key Skills Developed
 
-- Transaction monitoring analysis  
-- Red flag identification  
-- AML risk assessment  
+- Transaction monitoring and pattern analysis  
+- Red flag identification and risk evaluation  
+- AML risk assessment and case analysis  
 - SAR-style narrative writing  
-- Regulatory awareness (BSA, AML)  
+- Regulatory awareness (BSA, AML, FinCEN guidance)
 
 ---
 

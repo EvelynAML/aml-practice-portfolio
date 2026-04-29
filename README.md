@@ -1,11 +1,21 @@
 # AML Practice Portfolio
 
-**Minxi_Zhang(Evelyn_Poe)**  
+**Minxi Zhang (Evelyn)**  
+
+> 💼 Transitioning into AML/BSA | 10+ years in banking operations | Building practical case analysis & SAR writing skills
 Aspiring AML / BSA Analyst  
 
 ---
 
 ## 📌 About This Portfolio
+
+## 📂 Explore My Work
+
+- 👉 [Why AML](01-why-aml.md)  
+- 👉 [Learning Log](02-learning-log.md)  
+- 👉 [AML Case Practice](04-case-practice.md)  
+- 👉 [SAR Writing Practice](05-sar-practice.md)  
+- 👉 [AML News Analysis](03-news-analysis.md)  
 
 This portfolio documents my self-directed learning and practical experience in Anti-Money Laundering (AML) and Bank Secrecy Act (BSA) compliance.
 

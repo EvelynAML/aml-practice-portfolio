@@ -4,7 +4,7 @@
 San Antonio, TX | Open to relocation: Dallas, TX & Charlotte, NC
 ---
 
-Applying structured AML case analysis and risk-focused thinking aligned with U.S. regulatory expectations.
+Applying structured AML case analysis and risk-focused thinking to identify suspicious activity, aligned with U.S. regulatory expectations.
 
 This portfolio documents my self-directed learning and practical experience in Anti-Money Laundering (AML) and Bank Secrecy Act (BSA) compliance.
 
@@ -39,9 +39,11 @@ It includes:
 
 ## 🎯 My Goal
 
-With over 10 years of experience in banking operations, I am transitioning into the U.S. AML/BSA field.  
+With over 10 years of experience in banking operations, I am transitioning into the U.S. AML/BSA field to apply my expertise in transaction analysis and compliance.
 
 My goal is to leverage my experience in transaction review, compliance, and data analysis to identify suspicious activity and support financial crime prevention.
+
+Currently studying AML fundamentals and preparing for industry-recognized certification.
 
 ---
 
@@ -66,3 +68,5 @@ Actively updating weekly with new AML case analyses, SAR writing practice, and l
 ---
 
 📩 I welcome feedback and connections from AML, BSA, and financial crime compliance professionals.
+
+📌 Open to AML/BSA Analyst opportunities (entry-level/junior roles)

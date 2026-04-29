@@ -1,6 +1,6 @@
 # AML Practice Portfolio
 
-**Minxi_Zhang(Evelyn)**  
+**Minxi_Zhang(Evelyn_Poe)**  
 Aspiring AML / BSA Analyst  
 
 ---

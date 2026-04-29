@@ -2,7 +2,7 @@
 
 **Minxi Zhang (Evelyn)**  
 San Antonio, TX | Open to relocation: Dallas, TX & Charlotte, NC
-🔗 https://www.linkedin.com/in/minxizhangevelynwork/
+🔗https://www.linkedin.com/in/minxizhangevelynwork/
 ---
 
 Applying structured AML case analysis and risk-focused thinking to identify suspicious activity in line with U.S. regulatory expectations.

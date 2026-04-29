@@ -2,6 +2,7 @@
 
 **Minxi Zhang (Evelyn)**  
 San Antonio, TX | Open to relocation: Dallas, TX & Charlotte, NC
+
 🔗 https://www.linkedin.com/in/minxizhangevelynwork/
 ---
 

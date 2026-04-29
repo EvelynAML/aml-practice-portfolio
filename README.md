@@ -2,16 +2,21 @@
 
 **Minxi Zhang (Evelyn)**  
 
-> 💼 Transitioning into AML/BSA | 10+ years in banking operations | Building practical case analysis & SAR writing skills
-Aspiring AML / BSA Analyst  
+Delivering structured AML case analysis and risk-focused thinking aligned with U.S. regulatory expectations.
+
+> 💼 Transitioning into AML/BSA  
+> 📊 10+ years in banking operations  
+> ✍️ Building practical case analysis & SAR writing skills  
+
+**Aspiring AML / BSA Analyst**
 
 ---
 
-## 📌 About This Portfolio
+## 🚀 Explore My Work
 
 ## 📂 Explore My Work
 
-- 👉 [Why AML](01-why-aml.md)  
+- 👉 [Why I Pursue AML](01-why-aml.md)  
 - 👉 [Learning Log](02-learning-log.md)  
 - 👉 [AML Case Practice](04-case-practice.md)  
 - 👉 [SAR Writing Practice](05-sar-practice.md)  

@@ -2,7 +2,7 @@
 
 **Minxi Zhang (Evelyn)**  
 
-Delivering structured AML case analysis and risk-focused thinking aligned with U.S. regulatory expectations.
+Applying structured AML case analysis and risk-focused thinking aligned with U.S. regulatory expectations.
 This portfolio documents my self-directed learning and practical experience in Anti-Money Laundering (AML) and Bank Secrecy Act (BSA) compliance.
 
 > 💼 Transitioning into AML/BSA  
@@ -23,7 +23,6 @@ This portfolio documents my self-directed learning and practical experience in A
 - 👉 **[SAR Writing Practice](05-sar-practice.md)**  
 - 👉 **[AML News Analysis](03-news-analysis.md)**  
 
-
 It includes:
 - AML learning notes  
 - Case analysis and red flag identification  
@@ -36,11 +35,11 @@ It includes:
 
 With over 10 years of experience in banking operations, I am transitioning into the U.S. AML/BSA field.  
 
-My goal is to apply my experience in transaction review, compliance, and data analysis to identify suspicious activity and support financial crime prevention.
+My goal is to leverage my experience in transaction review, compliance, and data analysis to identify suspicious activity and support financial crime prevention.
 
 ---
 
-## 📂 Portfolio Sections
+## 📂 Explore My Work
 
 - Learning Log → (02-learning-log.md)  
 - AML Case Practice → (04-case-practice.md)  
@@ -61,4 +60,10 @@ My goal is to apply my experience in transaction review, compliance, and data an
 
 ## 🚀 Status
 
-Actively updating weekly with new AML case practice and learning progress.
+Actively updating weekly with new AML case practice and learning progress.  
+**Last updated:** April 2026
+
+
+---
+
+📩 I welcome feedback and connections from AML, BSA, and compliance professionals.

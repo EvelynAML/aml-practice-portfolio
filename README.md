@@ -1,6 +1,7 @@
 # AML Practice Portfolio
 
 **Minxi Zhang (Evelyn)**  
+Bringing 10+ years of banking operations experience into AML/BSA with a focus on transaction analysis and financial crime risk identification.
 San Antonio, TX | Open to relocation: Dallas, TX & Charlotte, NC
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/minxizhangevelynwork/)
 ---

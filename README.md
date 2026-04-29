@@ -2,9 +2,10 @@
 
 **Minxi Zhang (Evelyn)**  
 San Antonio, TX | Open to relocation: Dallas, TX & Charlotte, NC
+🔗 https://www.linkedin.com/in/minxizhangevelynwork/
 ---
 
-Applying structured AML case analysis and risk-focused thinking to identify suspicious activity, aligned with U.S. regulatory expectations.
+Applying structured AML case analysis and risk-focused thinking to identify suspicious activity in line with U.S. regulatory expectations.
 
 This portfolio documents my self-directed learning and practical experience in Anti-Money Laundering (AML) and Bank Secrecy Act (BSA) compliance.
 
@@ -21,6 +22,7 @@ Focused on developing practical AML skills aligned with U.S. regulatory expectat
 
 
 ## 🚀 Explore My Work
+> 🧪 Updated weekly with original case analyses and SAR-style writing samples.
 
 
 - 👉 **[Why I Pursue AML](01-why-aml.md)**  
@@ -29,7 +31,7 @@ Focused on developing practical AML skills aligned with U.S. regulatory expectat
 - 👉 **[SAR Writing Practice](05-sar-practice.md)**  
 - 👉 **[AML News Analysis](03-news-analysis.md)**  
 
-It includes:
+## 📌 What This Portfolio Covers
 - AML learning notes  
 - Case analysis and red flag identification  
 - SAR-style writing practice  
@@ -39,8 +41,7 @@ It includes:
 
 ## 🎯 My Goal
 
-With over 10 years of experience in banking operations, I am transitioning into the U.S. AML/BSA field to apply my expertise in transaction analysis and compliance.
-
+With 10+ years in banking operations, I’m transitioning into the U.S. AML/BSA field to apply my expertise in transaction review, compliance, and data analysis to identify suspicious activity and support financial crime prevention.
 My goal is to leverage my experience in transaction review, compliance, and data analysis to identify suspicious activity and support financial crime prevention.
 
 Currently studying AML fundamentals and preparing for industry-recognized certification.
@@ -53,7 +54,7 @@ Currently studying AML fundamentals and preparing for industry-recognized certif
 
 - Transaction monitoring and pattern analysis  
 - Red flag identification and risk evaluation  
-- AML risk assessment and case analysis  
+- AML risk assessment and investigative case analysis 
 - SAR-style narrative writing  
 - Regulatory awareness (BSA, AML, FinCEN guidance)
 
@@ -70,3 +71,5 @@ Actively updating weekly with new AML case analyses, SAR writing practice, and l
 📩 I welcome feedback and connections from AML, BSA, and financial crime compliance professionals.
 
 📌 Open to AML/BSA Analyst opportunities (entry-level/junior roles)
+
+📧 Email: evelynpoe.work@gmail.com

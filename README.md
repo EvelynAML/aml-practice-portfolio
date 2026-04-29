@@ -2,7 +2,7 @@
 
 **Minxi Zhang (Evelyn)**  
 San Antonio, TX | Open to relocation: Dallas, TX & Charlotte, NC
-🔗https://www.linkedin.com/in/minxizhangevelynwork/
+🔗 https://www.linkedin.com/in/minxizhangevelynwork/
 ---
 
 Applying structured AML case analysis and risk-focused thinking to identify suspicious activity in line with U.S. regulatory expectations.
@@ -41,8 +41,9 @@ Focused on developing practical AML skills aligned with U.S. regulatory expectat
 
 ## 🎯 My Goal
 
-With 10+ years in banking operations, I’m transitioning into the U.S. AML/BSA field to apply my expertise in transaction review, compliance, and data analysis to identify suspicious activity and support financial crime prevention.
-My goal is to leverage my experience in transaction review, compliance, and data analysis to identify suspicious activity and support financial crime prevention.
+With 10+ years of experience in banking operations, I am transitioning into the U.S. AML/BSA field to apply my expertise in transaction review, compliance, and data analysis.
+
+My focus is on identifying suspicious activity and supporting financial crime prevention through structured analysis and risk-based thinking.
 
 Currently studying AML fundamentals and preparing for industry-recognized certification.
 

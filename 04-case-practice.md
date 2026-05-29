@@ -104,7 +104,6 @@ This case helped me understand how AI is changing financial crime detection and 
 
 My key takeaway is that future AML professionals will need both investigative thinking and an understanding of emerging technologies. AI should be viewed as a tool that supports analysts rather than replacing their decision-making responsibilities.
 
-Add featured case analysis on AI and financial crime detection
 
 
 

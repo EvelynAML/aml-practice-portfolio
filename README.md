@@ -18,6 +18,25 @@ This portfolio documents my self-directed learning and practical experience in A
 
 Focused on developing practical AML skills aligned with U.S. regulatory expectations (BSA, FinCEN guidance).
 
+## Featured Industry Analysis
+
+### AI and Financial Crime Detection (2026)
+
+Analysis of how Artificial Intelligence (AI) is transforming financial crime detection, transaction monitoring, fraud prevention, and AML compliance. This featured case explores emerging risks such as synthetic identity fraud, deepfake scams, account takeover fraud, and the growing role of AI in financial institutions.
+
+**Key Topics Covered:**
+
+* AI-assisted fraud detection
+* Financial crime risks and red flags
+* AML analyst perspective
+* AI applications in transaction monitoring
+* Limitations and risks of AI
+* Key industry takeaways
+
+📄 Featured Project: [AI and Financial Crime Detection (2026)](04-case-practice.md)
+
+This analysis demonstrates my ability to evaluate emerging financial crime trends, identify AML risks, and apply structured risk-based thinking to real-world compliance challenges.
+
 **Aspiring AML / BSA Analyst**
 
 ---

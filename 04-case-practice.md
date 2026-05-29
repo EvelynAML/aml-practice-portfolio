@@ -28,3 +28,23 @@ An account inactive for one year suddenly receives a $50,000 transfer.
 
 **Conclusion:**  
 This activity may require further investigation due to unusual account behavior.
+
+---
+
+# Featured Case Analysis
+
+## AI and Financial Crime Detection (2026)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

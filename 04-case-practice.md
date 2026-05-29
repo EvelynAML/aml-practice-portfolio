@@ -62,7 +62,7 @@ If I were reviewing these activities as an AML Analyst, I would focus on identif
 - Rapid movement of funds
 - Multiple accounts connected to one individual
 - Transactions inconsistent with customer profile
-- Activity involving high-risk jurisdictions
+- Transactions involving high-risk jurisdictions or unusual cross-border activity
 
 The goal would be to determine whether the activity represents normal customer behavior or potentially suspicious activity requiring escalation.
 

@@ -62,13 +62,12 @@ Analysis of how Artificial Intelligence (AI) is transforming financial crime det
 
 This analysis demonstrates my ability to evaluate emerging financial crime trends, identify AML risks, and apply structured risk-based thinking to real-world compliance challenges.
 
-**Aspiring AML / BSA Analyst**
 
 ---
 
 ## 🚀 Explore My Work
 
-✍️ Updated weekly with original case analyses and SAR-style writing samples.
+Practical AML/BSA portfolio featuring case analysis, financial crime research, SAR-style writing, and industry insights.
 
 - 👉 [Why I Pursue AML](01-why-aml.md)  
 - 👉 [Learning Log](02-learning-log.md)  
@@ -80,11 +79,11 @@ This analysis demonstrates my ability to evaluate emerging financial crime trend
 
 ## 📌 What This Portfolio Covers
 
-- AML learning notes  
-- Case analysis and red flag identification  
-- SAR-style writing practice  
-- Real-world financial crime observations  
-
+- AML/BSA compliance concepts
+- KYC (Know Your Customer) awareness
+- Customer Due Diligence (CDD)
+- Financial crime risk analysis and red flag identification
+- Transaction monitoring and suspicious activity identification
 ---
 
 ## 🎯 My Goal

@@ -16,7 +16,7 @@ This portfolio documents my self-directed learning and practical experience in A
 
 - 💼 Transitioning into AML/BSA  
 - 📊 10+ years in banking operations  
-- ✍️ Building practical case analysis & SAR writing skills  
+- ✍️ Developing practical AML case analysis and SAR writing skills  
 
 Focused on developing practical AML skills aligned with U.S. regulatory expectations (BSA, FinCEN guidance).
 
@@ -101,23 +101,23 @@ Continuously expanding AML/BSA knowledge through case analysis, industry researc
 
 ## 💡 Key Skills Developed
 
-• Transaction monitoring and pattern analysis
-• KYC (Know Your Customer) awareness
-• Customer Due Diligence (CDD)
-• OFAC sanctions awareness
-• PEP and high-risk customer identification
-• Red flag identification and risk evaluation
-• AML risk assessment and investigative case analysis
-• SAR-style narrative writing
-• Regulatory awareness (BSA, AML, FinCEN guidance)
+- Transaction monitoring and pattern analysis
+- KYC (Know Your Customer) awareness
+- Customer Due Diligence (CDD)
+- OFAC & sanctions screening awareness
+- PEP & high-risk customer awareness
+- Red flag identification and risk evaluation
+- AML risk assessment and investigative case analysis
+- SAR-style narrative writing
+- Regulatory awareness (BSA, AML, FinCEN guidance)
 
 ---
 
 ## 🚀 Status
 
-Actively updating weekly with new AML case analyses, SAR writing practice, and learning progress.
+Actively updating with new AML case analyses, SAR-style writing exercises, industry research, and learning progress.
 
-**Updated regularly with new AML case analyses and learning projects**
+**Regularly updated with AML case analyses, industry research, and learning projects**
 
 ---
 

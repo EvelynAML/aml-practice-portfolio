@@ -37,6 +37,8 @@ Focused on developing practical AML skills aligned with U.S. regulatory expectat
 - Know Your Customer (KYC)
 - Customer Due Diligence (CDD)
 - Enhanced Due Diligence (EDD) Awareness
+- Sanctions & OFAC Awareness
+- PEP & High-Risk Customer Awareness
 - AML/BSA Compliance Awareness
 - Regulatory Reporting Support
 - Investigations & Documentation
@@ -92,17 +94,19 @@ With 10+ years of experience in banking operations, I am transitioning into the 
 
 My focus is on identifying suspicious activity and supporting financial crime prevention through structured analysis and risk-based thinking.
 
-Currently studying AML fundamentals and preparing for industry-recognized certification.
+Continuously expanding AML/BSA knowledge through case analysis, industry research, practical portfolio projects, and preparation for industry-recognized certifications.
 
 ---
 
 ## 💡 Key Skills Developed
 
-- Transaction monitoring and pattern analysis  
-- Red flag identification and risk evaluation  
-- AML risk assessment and investigative case analysis  
-- SAR-style narrative writing  
-- Regulatory awareness (BSA, AML, FinCEN guidance)  
+- Transaction monitoring and pattern analysis
+- KYC (Know Your Customer) awareness
+- Customer Due Diligence (CDD)
+- Red flag identification and risk evaluation
+- AML risk assessment and investigative case analysis
+- SAR-style narrative writing
+- Regulatory awareness (BSA, AML, FinCEN guidance)
 
 ---
 
@@ -110,7 +114,7 @@ Currently studying AML fundamentals and preparing for industry-recognized certif
 
 Actively updating weekly with new AML case analyses, SAR writing practice, and learning progress.
 
-**Last updated:** April 2026  
+**Updated regularly with new AML case analyses and learning projects**
 
 ---
 

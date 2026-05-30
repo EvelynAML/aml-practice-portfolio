@@ -16,7 +16,7 @@ This portfolio documents my self-directed learning and practical experience in A
 
 - 💼 Transitioning into AML/BSA  
 - 📊 10+ years in banking operations  
-- ✍️ Developing practical AML case analysis and SAR writing skills  
+- ✍️ Developing practical AML investigation and SAR writing skills  
 
 Focused on developing practical AML skills aligned with U.S. regulatory expectations (BSA, FinCEN guidance).
 

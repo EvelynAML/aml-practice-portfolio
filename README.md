@@ -1,8 +1,10 @@
-# AML Practice Portfolio
+# Minxi Zhang (Evelyn)
 
-## Minxi Zhang (Evelyn)
+## AML / BSA Analyst Portfolio
 
-Bringing 10+ years of banking operations experience into AML/BSA, with a focus on transaction monitoring, risk analysis, and suspicious activity identification.
+**Banking Operations | Transaction Monitoring | Financial Crime Risk | AML Case Analysis**
+
+Bringing 10+ years of banking operations, transaction review, fraud indicator awareness, and risk control experience into AML/BSA, with a focus on transaction monitoring, risk analysis, and suspicious activity identification.
 
 San Antonio, TX | Open to relocation: Dallas, TX & Charlotte, NC | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/minxizhangevelynwork/)
 
@@ -17,6 +19,29 @@ This portfolio documents my self-directed learning and practical experience in A
 - ✍️ Building practical case analysis & SAR writing skills  
 
 Focused on developing practical AML skills aligned with U.S. regulatory expectations (BSA, FinCEN guidance).
+
+## Portfolio Navigation
+
+- 📌 [Why I Pursue AML](01-why-aml.md)
+- 📚 [Learning Log](02-learning-log.md)
+- 🔍 [AML Case Practice](04-case-practice.md)
+- 📝 [SAR Writing Practice](05-sar-practice.md)
+- 🤖 [AI and Financial Crime Detection (2026)](04-case-practice.md)
+
+## Core AML Skills
+
+- Transaction Monitoring
+- Suspicious Activity Detection
+- Financial Crime Risk Analysis
+- Fraud Indicator Identification
+- Know Your Customer (KYC)
+- Customer Due Diligence (CDD)
+- Enhanced Due Diligence (EDD) Awareness
+- AML/BSA Compliance Awareness
+- Regulatory Reporting Support
+- Investigations & Documentation
+- Excel Data Analysis
+- Risk-Based Decision Making
 
 ## Featured Industry Analysis
 

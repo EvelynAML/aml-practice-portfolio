@@ -24,6 +24,7 @@ Focused on developing practical AML skills aligned with U.S. regulatory expectat
 
 - 📌 [Why I Pursue AML](01-why-aml.md)
 - 📚 [Learning Log](02-learning-log.md)
+- 📈 [AML News Analysis](03-news-analysis.md)
 - 🔍 [AML Case Practice](04-case-practice.md)
 - 📝 [SAR Writing Practice](05-sar-practice.md)
 - 🤖 [AI and Financial Crime Detection (2026)](04-case-practice.md)
@@ -100,13 +101,15 @@ Continuously expanding AML/BSA knowledge through case analysis, industry researc
 
 ## 💡 Key Skills Developed
 
-- Transaction monitoring and pattern analysis
-- KYC (Know Your Customer) awareness
-- Customer Due Diligence (CDD)
-- Red flag identification and risk evaluation
-- AML risk assessment and investigative case analysis
-- SAR-style narrative writing
-- Regulatory awareness (BSA, AML, FinCEN guidance)
+• Transaction monitoring and pattern analysis
+• KYC (Know Your Customer) awareness
+• Customer Due Diligence (CDD)
+• OFAC sanctions awareness
+• PEP and high-risk customer identification
+• Red flag identification and risk evaluation
+• AML risk assessment and investigative case analysis
+• SAR-style narrative writing
+• Regulatory awareness (BSA, AML, FinCEN guidance)
 
 ---
 

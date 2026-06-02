@@ -100,7 +100,7 @@ Financial institutions must balance technology with human oversight and risk-bas
 
 ### Personal Reflection
 
-This case helped me understand how AI is changing financial crime detection and compliance operations. With over 10 years of banking operations experience involving transaction review, exception handling, documentation controls, and fraud indicator awareness, I recognize that technology can improve efficiency but cannot completely replace human judgment.
+This case helped me understand how AI is changing financial crime detection and compliance operations. With 14 years of banking operations experience involving transaction review, exception handling, documentation controls, and fraud indicator awareness, I recognize that technology can improve efficiency but cannot completely replace human judgment.
 
 My key takeaway is that future AML professionals will need both investigative thinking and an understanding of emerging technologies. AI should be viewed as a tool that supports analysts rather than replacing their decision-making responsibilities.
 

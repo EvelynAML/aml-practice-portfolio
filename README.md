@@ -4,7 +4,7 @@
 
 **Banking Operations | Transaction Monitoring | Financial Crime Risk | AML Case Analysis**
 
-Bringing 15+ years of banking operations, transaction review, fraud indicator awareness, and risk control experience into AML/BSA, with a focus on transaction monitoring, risk analysis, and suspicious activity identification.
+Bringing 14+ years of banking operations, transaction review, fraud indicator awareness, and risk control experience into AML/BSA, with a focus on transaction monitoring, risk analysis, and suspicious activity identification.
 
 San Antonio, TX | Open to relocation: Dallas, TX & Charlotte, NC | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/minxizhangevelynwork/)
 
@@ -15,7 +15,7 @@ This portfolio documents my self-directed learning and practical experience in A
 📊 Portfolio includes original AML case analyses, red flag identification, and SAR-style writing samples.
 
 - 💼 Transitioning into AML/BSA  
-- 📊 15+ years in banking operations  
+- 📊 14+ years in banking operations  
 - ✍️ Developing practical AML investigation and SAR writing skills  
 
 Focused on developing practical AML skills aligned with U.S. regulatory expectations (BSA, FinCEN guidance).
@@ -91,7 +91,7 @@ Practical AML/BSA portfolio featuring case analysis, financial crime research, S
 
 ## 🎯 My Goal
 
-With 10+ years of experience in banking operations, I am transitioning into the U.S. AML/BSA field to apply my expertise in transaction review, compliance, and data analysis.
+With 14+ years of experience in banking operations, I am transitioning into the U.S. AML/BSA field to apply my expertise in transaction review, compliance, and data analysis.
 
 My focus is on identifying suspicious activity and supporting financial crime prevention through structured analysis and risk-based thinking.
 

@@ -1,7 +1,7 @@
 01-why-aml.md
 # Why I Pursue AML
 
-With over 10 years of experience in banking and financial operations, I have developed strong skills in transaction review, data accuracy, and compliance.
+With 14 years of experience in banking and financial operations, I have developed strong skills in transaction review, data accuracy, and compliance.
 
 I am pursuing a career in Anti-Money Laundering (AML) because it allows me to apply my analytical thinking and risk awareness to detect suspicious activities and protect the financial system.
 

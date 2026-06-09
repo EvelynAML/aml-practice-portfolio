@@ -27,7 +27,8 @@ Focused on developing practical AML skills aligned with U.S. regulatory expectat
 - 📈 [AML News Analysis](03-news-analysis.md)
 - 🔍 [AML Case Practice](04-case-practice.md)
 - 📝 [SAR Writing Practice](05-sar-practice.md)
-- 🤖 [AI and Financial Crime Detection (2026)](04-case-practice.md)
+- 🤖 [AI, AML & Financial Crime Detection (2026)](04-case-practice.md)
+- 🧩 [Sanctions Evasion Risk Through Cryptoasset Exchanges (2026)](04-case-practice.md)
 
 ## Core AML Skills
 

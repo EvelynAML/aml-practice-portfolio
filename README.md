@@ -29,7 +29,7 @@ Focused on developing practical AML skills aligned with U.S. regulatory expectat
 - 📝 [SAR Writing Practice](05-sar-practice.md)
 - 🤖 [AI, AML & Financial Crime Detection (2026)](04-case-practice.md)
 - 🧩 [Sanctions Evasion Risk Through Cryptoasset Exchanges (2026)](04-case-practice.md)
-- 🔄 [Crypto Mixing Services and Transaction Monitoring Risk (2026)](#crypto-mixing-services-and-transaction-monitoring-risk-2026)
+- 🔄 [Crypto Mixing Services & Transaction Monitoring Risk (2026)](#crypto-mixing-services-and-transaction-monitoring-risk-2026)
 
 ## Core AML Skills
 

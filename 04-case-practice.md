@@ -278,6 +278,159 @@ This analysis reinforced the importance of a risk-based approach and reminded me
 As I continue building my AML/BSA knowledge, this type of case helps me connect my banking operations experience with financial crime investigation, sanctions awareness, and risk-based decision making.
 
 
+## Case 5: Crypto Mixing Services and Transaction Monitoring Risk (2026)
+
+## Disclaimer
+
+This case analysis is based on publicly available information and is intended for educational and professional development purposes only. It does not represent legal, regulatory, compliance, or investigative advice.
+
+---
+
+## Source
+
+Primary Source:
+
+U.S. Department of Justice (DOJ), Eastern District of Pennsylvania
+
+"Two Charged in Connection With Cryptocurrency Money Laundering Service That Allegedly Laundered Over $389 Million in Unlawful Transactions"
+
+Published: June 11, 2026
+
+Supporting Sources Reviewed:
+
+* Europol
+* Chainalysis
+* FinCrime Intelligence Weekly Issue 3
+
+---
+
+## Executive Summary
+
+This case examines the risks associated with cryptocurrency mixing services and the challenges they create for AML transaction monitoring.
+
+What stood out to me is that the service marketed itself as a way to make cryptocurrency transactions untraceable. However, according to investigators, the activity was ultimately traced through blockchain analysis and exchange records.
+
+What stood out to me is that financial crime risk may not always be visible through customer names alone. In some situations, transaction behavior, wallet exposure, and connections between accounts may provide stronger indicators of potential risk.
+
+---
+
+## What Happened?
+
+According to the DOJ, two individuals were charged in connection with operating a cryptocurrency money laundering service known as AudiA6.
+
+Investigators allege the service processed more than $389 million in cryptocurrency transactions and advertised its ability to conceal the source of funds linked to criminal activity.
+
+The investigation involved multiple international law enforcement agencies. Authorities conducted arrests, seized infrastructure, blocked related accounts, and dismantled websites associated with the operation.
+
+What I found particularly interesting is that the service promoted anonymity, yet investigators were still able to reconstruct transaction flows through blockchain analysis and exchange records.
+
+---
+
+## Financial Crime Risks Identified
+
+| Risk Area               | Why It Matters                                                                                                  |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Money Laundering        | Mixing services may be used to obscure the origin of illicit funds.                                             |
+| Cybercrime Proceeds     | Criminal proceeds from ransomware, fraud, and other offenses may move through mixers before reaching exchanges. |
+| Wallet Obfuscation      | Transactions may be routed through multiple wallets to make tracing more difficult.                             |
+| Rapid Movement of Funds | Funds are often moved quickly after receipt.                                                                    |
+| Indirect Exposure       | Risk may exist even when no direct sanctions or criminal match is identified.                                   |
+| Mule Account Activity   | Criminal networks may use multiple accounts to move or cash out funds.                                          |
+
+---
+
+## Red Flags Identified
+
+Potential red flags in this scenario include:
+
+* Deposits linked to known mixing services or wallet clusters associated with mixers
+* Rapid movement of funds shortly after receipt
+* Activity that lacks a clear business purpose
+* Multiple transfers through intermediary wallets
+* Customers receiving and quickly forwarding funds
+* Transaction patterns inconsistent with the customer profile
+* Exposure to ransomware-related or cybercrime-linked wallets
+* Frequent movement between cryptoassets without a clear economic reason
+* Concentrated activity involving higher-risk counterparties
+
+---
+
+## Investigation Questions
+
+If I were reviewing this activity, I would consider the following questions:
+
+1. Is the customer expected to engage in cryptoasset activity?
+2. Does the customer's activity align with the expected profile?
+3. Are there links to known mixing-service wallet clusters?
+4. How quickly are funds moving after receipt?
+5. Is there a reasonable explanation for the transaction pattern?
+6. Are similar behaviors appearing across multiple accounts?
+7. Is there evidence of mule-account activity?
+8. Are counterparties connected to known cybercrime typologies?
+9. Does the activity indicate attempts to obscure ownership or source of funds?
+10. Does the activity warrant escalation for additional review?
+
+---
+
+## AML Analyst Perspective
+
+From my perspective, the most important lesson from this case is that transaction monitoring should focus on patterns, not just individual transactions.
+
+A single transaction may not appear unusual on its own. However, when transaction velocity, wallet exposure, counterparty relationships, and customer behavior are reviewed together, a different risk picture may emerge.
+
+Coming from a banking operations background, this reminded me of situations where reviewing a single transaction or exception was not enough. Understanding the broader context often provided a clearer view of the underlying risk.
+
+---
+
+## Controls That Could Help Detect This Activity
+
+| Control Area                 | Practical Purpose                                                                                     |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Wallet Analytics             | Identifies exposure to higher-risk wallet clusters.                                                   |
+| Transaction Monitoring       | Detects unusual transaction patterns and movement of funds.                                           |
+| Customer Due Diligence       | Helps determine whether activity is expected.                                                         |
+| Enhanced Due Diligence       | Supports additional review of higher-risk activity.                                                   |
+| Historical Look-Back Reviews | Allows institutions to reassess previously reviewed activity when new intelligence becomes available. |
+| Escalation Procedures        | Ensures higher-risk activity receives appropriate review.                                             |
+
+---
+
+## Potential SAR Considerations
+
+Based on publicly available information alone, it would not be possible to determine whether a SAR would be required.
+
+Additional investigation, customer information, and supporting documentation would be necessary before reaching that conclusion.
+
+Factors that may warrant additional review include:
+
+* Confirmed links to mixing services
+* Exposure to cybercrime-related wallets
+* Activity inconsistent with the customer profile
+* Attempts to obscure the source or destination of funds
+* Repeated high-risk transaction patterns
+* Evidence suggesting the movement of illicit proceeds
+
+---
+
+## Key Takeaway
+
+What stood out to me most is that a mixing service may make transactions more difficult to follow, but it does not necessarily make them invisible.
+
+This case reinforced the importance of transaction monitoring, customer due diligence, and understanding how different pieces of information connect together.
+
+For AML analysts, reviewing the broader pattern of activity may be just as important as reviewing any individual transaction.
+
+---
+
+## Personal Reflection
+
+This case was particularly interesting to me because it combines transaction review, pattern recognition, and risk assessment.
+
+In my previous banking operations roles, I often reviewed exceptions, unusual activity, and transaction-related issues that required additional investigation. Although the focus was operational risk rather than AML, the thought process was often similar: identify unusual behavior, gather supporting information, evaluate potential risk, and determine the appropriate next step.
+
+What stood out to me most is that financial crime risk is not always visible through a customer's name or a single transaction. Sometimes the risk becomes clearer only after reviewing how multiple activities connect together.
+
+This analysis reinforced the importance of a risk-based approach and reminded me that effective AML work requires analytical thinking, sound judgment, and a willingness to look beyond the first piece of information presented.
 
 
 

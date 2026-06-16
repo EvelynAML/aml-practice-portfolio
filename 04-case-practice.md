@@ -310,7 +310,7 @@ This case examines the risks associated with cryptocurrency mixing services and 
 
 What stood out to me is that the service marketed itself as a way to make cryptocurrency transactions untraceable. However, according to investigators, the activity was ultimately traced through blockchain analysis and exchange records.
 
-What stood out to me is that financial crime risk may not always be visible through customer names alone. In some situations, transaction behavior, wallet exposure, and connections between accounts may provide stronger indicators of potential risk.
+Another observation from this case is that financial crime risk may not always be visible through customer names alone. In some situations, transaction behavior, wallet exposure, and connections between accounts may provide stronger indicators of potential risk.
 
 ---
 
@@ -374,7 +374,7 @@ If I were reviewing this activity, I would consider the following questions:
 
 ## AML Analyst Perspective
 
-From my perspective, the most important lesson from this case is that transaction monitoring should focus on patterns, not just individual transactions.
+From my perspective, the most important lesson from this case is that reviewing a broader pattern of activity often provides more insight than reviewing individual transactions in isolation.
 
 A single transaction may not appear unusual on its own. However, when transaction velocity, wallet exposure, counterparty relationships, and customer behavior are reviewed together, a different risk picture may emerge.
 
@@ -430,7 +430,7 @@ In my previous banking operations roles, I often reviewed exceptions, unusual ac
 
 What stood out to me most is that financial crime risk is not always visible through a customer's name or a single transaction. Sometimes the risk becomes clearer only after reviewing how multiple activities connect together.
 
-This analysis reinforced the importance of a risk-based approach and reminded me that effective AML work requires analytical thinking, sound judgment, and a willingness to look beyond the first piece of information presented.
+This analysis reinforced the importance of a risk-based approach and reminded me that understanding the full context of activity is often just as important as identifying individual red flags.
 
 
 

@@ -12,11 +12,11 @@ Applying structured financial crime case analysis and risk-based thinking to str
 
 This portfolio documents my self-directed learning and practical experience in financial crime analysis, with a focus on AML/BSA, sanctions, transaction monitoring, KYC/CDD, and risk-based investigations.
 
-📊 Portfolio includes original financial crime case analyses, AML news analysis, red flag identification, and SAR-style writing samples.
+📊 Portfolio includes original financial crime case analyses, financial crime news analysis, red flag identification, and SAR-style writing samples.
 
 - 💼 Transitioning into AML/BSA  
 - 📊 14 years in banking operations  
-- ✍️ Developing practical AML investigation and SAR writing skills  
+- ✍️ Developing practical AML investigation, transaction monitoring, and SAR writing skills  
 
 Focused on developing practical financial crime skills aligned with U.S. regulatory expectations (BSA, FinCEN guidance, and sanctions compliance).
 

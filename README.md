@@ -1,8 +1,8 @@
 # Minxi Zhang (Evelyn)
 
-## AML / BSA Analyst Portfolio
+## Financial Crime Portfolio
 
-**Banking Operations | Transaction Monitoring | Financial Crime Risk | AML Case Analysis**
+**Banking Operations | Financial Crime | Transaction Monitoring | Sanctions | AML/BSA | KYC/CDD**
 
 Bringing 14 years of banking operations, transaction review, fraud indicator awareness, and risk control experience into AML/BSA, with a focus on transaction monitoring, risk analysis, and suspicious activity identification.
 

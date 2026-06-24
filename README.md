@@ -4,28 +4,28 @@
 
 **Banking Operations | Financial Crime | Transaction Monitoring | Sanctions | AML/BSA | KYC/CDD**
 
-Bringing 14 years of banking operations, transaction review, fraud indicator awareness, and risk control experience into AML/BSA, with a focus on transaction monitoring, risk analysis, and suspicious activity identification.
+Bringing 14 years of banking operations, transaction review, fraud indicator awareness, and risk control experience into financial crime, with a focus on AML/BSA, transaction monitoring, sanctions, and risk analysis.
 
 San Antonio, TX | Open to relocation: Dallas, TX & Charlotte, NC | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/minxizhangevelynwork/)
 
-Applying structured AML case analysis and risk-based thinking to identify suspicious activity aligned with U.S. regulatory expectations.
+Applying structured financial crime case analysis and risk-based thinking to strengthen practical AML/BSA, sanctions, transaction monitoring, and KYC/CDD skills.
 
-This portfolio documents my self-directed learning and practical experience in Anti-Money Laundering (AML) and Bank Secrecy Act (BSA) compliance.
+This portfolio documents my self-directed learning and practical experience in financial crime analysis, with a focus on AML/BSA, sanctions, transaction monitoring, KYC/CDD, and risk-based investigations.
 
-📊 Portfolio includes original AML case analyses, red flag identification, and SAR-style writing samples.
+📊 Portfolio includes original financial crime case analyses, AML news analysis, red flag identification, and SAR-style writing samples.
 
 - 💼 Transitioning into AML/BSA  
 - 📊 14 years in banking operations  
 - ✍️ Developing practical AML investigation and SAR writing skills  
 
-Focused on developing practical AML skills aligned with U.S. regulatory expectations (BSA, FinCEN guidance).
+Focused on developing practical financial crime skills aligned with U.S. regulatory expectations (BSA, FinCEN guidance, and sanctions compliance).
 
 ## Portfolio Navigation
 
 - 📌 [Why I Pursue AML](01-why-aml.md)
 - 📚 [Learning Log](02-learning-log.md)
-- 📈 [AML News Analysis](03-news-analysis.md)
-- 🔍 [AML Case Practice](04-case-practice.md)
+- 📈 [Financial Crime News Analysis](03-news-analysis.md)
+- 🔍 [Financial Crime Case Studies](04-case-practice.md)
 - 📝 [SAR Writing Practice](05-sar-practice.md)
 - 🤖 [AI, AML & Financial Crime Detection (2026)](04-case-practice.md)
 - 🧩 [Sanctions Evasion Risk Through Cryptoasset Exchanges (2026)](04-case-practice.md)

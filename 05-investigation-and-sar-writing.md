@@ -25,7 +25,7 @@
 * Investigation documentation
 * Escalation decision making
 * SAR narrative writing
-* Responsible AI-assisted drafting
+* Responsible AI-assisted SAR drafting
 
 ---
 
@@ -145,7 +145,7 @@ The activity is potentially consistent with transaction laundering or merchant f
 
 **Recommended Action**
 
-Escalate the activity for further AML/Fraud investigation and consider SAR filing if no reasonable explanation is obtained.
+Escalate the activity for further AML/Fraud investigation and evaluate whether SAR filing may be appropriate if no reasonable explanation is obtained.
 
 **Rationale**
 
@@ -163,7 +163,7 @@ The activity appeared inconsistent with the merchant's stated business purpose. 
 
 Based on the available information, the observed activity may indicate that the merchant is processing payments for an undisclosed or unrelated business. The activity is potentially consistent with transaction laundering or merchant factoring, where a merchant account is used to process payments on behalf of another entity not disclosed during onboarding.
 
-Given the unexplained increase in transaction volume, larger transaction amounts, elevated disputes, and inconsistency with the merchant's expected profile, the activity was escalated for further AML review.
+Given the unexplained increase in transaction volume, larger transaction amounts, elevated disputes, and inconsistency with the merchant's expected profile, the activity was escalated for further AML/Fraud review.
 
 ---
 
@@ -216,4 +216,4 @@ This case allowed me to practice the complete investigative process, from review
 
 What stood out to me is that effective financial crime investigations involve much more than identifying unusual transactions. Analysts need to understand the expected customer or merchant profile, compare expected activity with observed behavior, evaluate multiple risk indicators together, and document findings using objective, defensible reasoning.
 
-This exercise also reinforced the importance of writing SAR narratives that remain factual, concise, and supported only by the available information. Avoiding unsupported assumptions while clearly explaining why activity appears suspicious is an important part of effective AML investigations.
+This exercise also reinforced the importance of writing SAR narratives that remain factual, concise, and supported only by the available information. Avoiding unsupported assumptions while clearly explaining why activity appears suspicious is an important part of effective financial crime investigations.

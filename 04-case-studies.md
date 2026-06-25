@@ -1,5 +1,5 @@
 04-case-studies.md
-# Financial Crime Case studies
+# Financial Crime Case Studies
 
 ## Case 1: Structuring Activity
 

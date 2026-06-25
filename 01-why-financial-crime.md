@@ -1,4 +1,4 @@
-01-why-financial-crimel.md
+01-why-financial-crime.md
 # Why financial crime
 
 With 14 years of experience in banking and financial operations, I have developed strong skills in transaction review, data accuracy, and compliance.

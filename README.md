@@ -22,14 +22,22 @@ Focused on developing practical financial crime skills aligned with U.S. regulat
 
 ## Portfolio Navigation
 
-- 📌 [Why Financial Crime](01-why-financial-crime.md)
-- 📚 [Learning Log](02-learning-log.md)
-- 📈 [Financial Crime News Analysis](03-news-analysis.md)
-- 🔍 [Financial Crime Case Studies](04-case-studies.md)
-- 📝 [Financial Crime Investigation & SAR Writing](05-investigation-and-sar-writing.md)
-- 🤖 [AI, AML & Financial Crime Detection (2026)](04-case-studies.md)
-- 🧩 [Sanctions Evasion Risk Through Cryptoasset Exchanges (2026)](04-case-studies.md)
-- 🔄 [Crypto Mixing Services & Transaction Monitoring Risk (2026)](04-case-studies.md)
+### 📌 Why Financial Crime
+- [Why Financial Crime](./01-why-financial-crime.md)
+
+### 📚 Learning Log
+- [Learning Log](./02-learning-log.md)
+
+### 📈 Financial Crime News & Regulatory Analysis
+- [AML Regulatory Analysis: KYC/CDD Risk Review (2026)](./03-news-analysis.md)
+
+### 🔎 Financial Crime Case Studies
+- [AI, AML & Financial Crime Detection (2026)](./04-case-studies.md)
+- [Sanctions Evasion Risk Through Cryptoasset Exchanges (2026)](./04-case-studies.md)
+- [Crypto Mixing Services & Transaction Monitoring Risk (2026)](./04-case-studies.md)
+
+### 📝 Financial Crime Investigation & SAR Writing
+- [Merchant Transaction Laundering Investigation](./05-investigation-and-sar-writing.md)
 
 ## Core AML Skills
 

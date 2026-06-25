@@ -1,5 +1,5 @@
 05-investigation-and-sar-writing.md
-# # Merchant Transaction Laundering Investigation
+# Merchant Transaction Laundering Investigation
 
 ## Financial Crime Investigation & SAR Narrative Practice
 

@@ -26,7 +26,7 @@ Focused on developing practical financial crime skills aligned with U.S. regulat
 - 📚 [Learning Log](02-learning-log.md)
 - 📈 [Financial Crime News Analysis](03-news-analysis.md)
 - 🔍 [Financial Crime Case Studies](04-case-studies.md)
-- 📝 [financial-crime-investigation-and-sar-writing](05-investigation-and-sar-writing.md)
+- 📝 [Financial-Crime-Investigation-And-Sar-Writing](05-investigation-and-sar-writing.md)
 - 🤖 [AI, AML & Financial Crime Detection (2026)](04-case-studies.md)
 - 🧩 [Sanctions Evasion Risk Through Cryptoasset Exchanges (2026)](04-case-studies.md)
 - 🔄 [Crypto Mixing Services & Transaction Monitoring Risk (2026)](04-case-studies.md)

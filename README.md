@@ -28,7 +28,7 @@ Focused on developing practical financial crime skills aligned with U.S. regulat
 ### 📚 Learning Log
 - [Learning Log](./02-learning-log.md)
 
-### 📈 Financial Crime News & Regulatory Analysis
+### 📈 Financial Crime News Analysis
 - [AML Regulatory Analysis: KYC/CDD Risk Review (2026)](./03-news-analysis.md)
 
 ### 🔎 Financial Crime Case Studies

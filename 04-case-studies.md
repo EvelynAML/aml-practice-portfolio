@@ -1,5 +1,5 @@
-04-case-practice.md
-# AML Case Practice
+04-case-studies.md
+# Financial Crime Case studies
 
 ## Case 1: Structuring Activity
 
